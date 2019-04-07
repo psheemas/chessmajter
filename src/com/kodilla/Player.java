@@ -1,0 +1,6 @@
+package com.kodilla;
+
+public enum Player {
+    PLAYER1,
+    PLAYER2
+}
